@@ -7,7 +7,6 @@ sections:
 - type: document
   path: test-example
   label: example
-  match: "**/*"
 - type: directory
   path: ''
   label: Example
